@@ -30,6 +30,7 @@ This project is an interactive and visually appealing dashboard for car sales an
 
 # DashBoard
 
-![Screenshot 2024-09-26 201606](https://github.com/user-attachments/assets/fb0fd9ef-a181-47b7-a013-bc2da2eccb71)
+![Screenshot 2024-09-26 201857](https://github.com/user-attachments/assets/13cef19d-de3d-4852-84c9-2ef36851afef)
+
 ![Screenshot 2024-09-26 201631](https://github.com/user-attachments/assets/20ff84c6-1e6f-46f4-86c3-8827414cea7e)
 
