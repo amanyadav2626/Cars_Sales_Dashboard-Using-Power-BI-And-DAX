@@ -3,7 +3,7 @@ This project is an interactive and visually appealing dashboard for car sales an
 
 # Problem Statement 1: KPI’s Requirement
 # Sales Overview:
-Year-to-Date (YTD) Total Sales.
+* Year-to-Date (YTD) Total Sales.
 Month-to-Date (MTD) Total Sales.
 Year-over-Year (YOY) Growth in Total Sales.
 Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales.
