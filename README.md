@@ -27,3 +27,9 @@ This project is an interactive and visually appealing dashboard for car sales an
 * YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
 * Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 * Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc.
+
+# DashBoard
+
+![Screenshot 2024-09-26 201606](https://github.com/user-attachments/assets/fb0fd9ef-a181-47b7-a013-bc2da2eccb71)
+![Screenshot 2024-09-26 201631](https://github.com/user-attachments/assets/20ff84c6-1e6f-46f4-86c3-8827414cea7e)
+
