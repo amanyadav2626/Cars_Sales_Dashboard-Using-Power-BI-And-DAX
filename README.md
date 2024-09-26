@@ -7,7 +7,8 @@ Year-to-Date (YTD) Total Sales.
 Month-to-Date (MTD) Total Sales.
 Year-over-Year (YOY) Growth in Total Sales.
 Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales.
-Average Price Analysis.
+
+# Average Price Analysis:
 YTD Average Price
 MTD Average Price
 YOY Growth in Average Price
